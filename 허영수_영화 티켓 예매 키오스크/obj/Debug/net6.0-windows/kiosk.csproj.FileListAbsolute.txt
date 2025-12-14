@@ -1,0 +1,63 @@
+C:\c#WinForm\kiosk\bin\Debug\net6.0-windows\kiosk.exe
+C:\c#WinForm\kiosk\bin\Debug\net6.0-windows\kiosk.deps.json
+C:\c#WinForm\kiosk\bin\Debug\net6.0-windows\kiosk.runtimeconfig.json
+C:\c#WinForm\kiosk\bin\Debug\net6.0-windows\kiosk.dll
+C:\c#WinForm\kiosk\bin\Debug\net6.0-windows\kiosk.pdb
+C:\c#WinForm\kiosk\obj\Debug\net6.0-windows\kiosk.Form1.resources
+C:\c#WinForm\kiosk\obj\Debug\net6.0-windows\kiosk.csproj.GenerateResource.cache
+C:\c#WinForm\kiosk\obj\Debug\net6.0-windows\kiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#WinForm\kiosk\obj\Debug\net6.0-windows\kiosk.AssemblyInfoInputs.cache
+C:\c#WinForm\kiosk\obj\Debug\net6.0-windows\kiosk.AssemblyInfo.cs
+C:\c#WinForm\kiosk\obj\Debug\net6.0-windows\kiosk.csproj.CoreCompileInputs.cache
+C:\c#WinForm\kiosk\obj\Debug\net6.0-windows\kiosk.dll
+C:\c#WinForm\kiosk\obj\Debug\net6.0-windows\refint\kiosk.dll
+C:\c#WinForm\kiosk\obj\Debug\net6.0-windows\kiosk.pdb
+C:\c#WinForm\kiosk\obj\Debug\net6.0-windows\kiosk.genruntimeconfig.cache
+C:\c#WinForm\kiosk\obj\Debug\net6.0-windows\ref\kiosk.dll
+C:\c#WinForm\kiosk\obj\Debug\net6.0-windows\kiosk.Properties.Resources.resources
+C:\c#WinForm\kiosk\obj\Debug\net6.0-windows\kiosk.Form2.resources
+C:\c#WinForm\kiosk\obj\Debug\net6.0-windows\kiosk.Form3.resources
+C:\c#WinForm\kiosk\obj\Debug\net6.0-windows\kiosk.Form4.resources
+C:\c#WinForm\kiosk\obj\Debug\net6.0-windows\kiosk.Form6.resources
+C:\c#WinForm\허영수\bin\Debug\net6.0-windows\kiosk.exe
+C:\c#WinForm\허영수\bin\Debug\net6.0-windows\kiosk.deps.json
+C:\c#WinForm\허영수\bin\Debug\net6.0-windows\kiosk.runtimeconfig.json
+C:\c#WinForm\허영수\bin\Debug\net6.0-windows\kiosk.dll
+C:\c#WinForm\허영수\bin\Debug\net6.0-windows\kiosk.pdb
+C:\c#WinForm\허영수\obj\Debug\net6.0-windows\kiosk.Form1.resources
+C:\c#WinForm\허영수\obj\Debug\net6.0-windows\kiosk.Form2.resources
+C:\c#WinForm\허영수\obj\Debug\net6.0-windows\kiosk.Form3.resources
+C:\c#WinForm\허영수\obj\Debug\net6.0-windows\kiosk.Form4.resources
+C:\c#WinForm\허영수\obj\Debug\net6.0-windows\kiosk.Form6.resources
+C:\c#WinForm\허영수\obj\Debug\net6.0-windows\kiosk.Properties.Resources.resources
+C:\c#WinForm\허영수\obj\Debug\net6.0-windows\kiosk.csproj.GenerateResource.cache
+C:\c#WinForm\허영수\obj\Debug\net6.0-windows\kiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#WinForm\허영수\obj\Debug\net6.0-windows\kiosk.AssemblyInfoInputs.cache
+C:\c#WinForm\허영수\obj\Debug\net6.0-windows\kiosk.AssemblyInfo.cs
+C:\c#WinForm\허영수\obj\Debug\net6.0-windows\kiosk.csproj.CoreCompileInputs.cache
+C:\c#WinForm\허영수\obj\Debug\net6.0-windows\kiosk.dll
+C:\c#WinForm\허영수\obj\Debug\net6.0-windows\refint\kiosk.dll
+C:\c#WinForm\허영수\obj\Debug\net6.0-windows\kiosk.pdb
+C:\c#WinForm\허영수\obj\Debug\net6.0-windows\kiosk.genruntimeconfig.cache
+C:\c#WinForm\허영수\obj\Debug\net6.0-windows\ref\kiosk.dll
+C:\허영수 개인프로젝트 키오스크\허영수\허영수\bin\Debug\net6.0-windows\kiosk.exe
+C:\허영수 개인프로젝트 키오스크\허영수\허영수\bin\Debug\net6.0-windows\kiosk.deps.json
+C:\허영수 개인프로젝트 키오스크\허영수\허영수\bin\Debug\net6.0-windows\kiosk.runtimeconfig.json
+C:\허영수 개인프로젝트 키오스크\허영수\허영수\bin\Debug\net6.0-windows\kiosk.dll
+C:\허영수 개인프로젝트 키오스크\허영수\허영수\bin\Debug\net6.0-windows\kiosk.pdb
+C:\허영수 개인프로젝트 키오스크\허영수\허영수\obj\Debug\net6.0-windows\kiosk.Form1.resources
+C:\허영수 개인프로젝트 키오스크\허영수\허영수\obj\Debug\net6.0-windows\kiosk.Form2.resources
+C:\허영수 개인프로젝트 키오스크\허영수\허영수\obj\Debug\net6.0-windows\kiosk.Form3.resources
+C:\허영수 개인프로젝트 키오스크\허영수\허영수\obj\Debug\net6.0-windows\kiosk.Form4.resources
+C:\허영수 개인프로젝트 키오스크\허영수\허영수\obj\Debug\net6.0-windows\kiosk.Form6.resources
+C:\허영수 개인프로젝트 키오스크\허영수\허영수\obj\Debug\net6.0-windows\kiosk.Properties.Resources.resources
+C:\허영수 개인프로젝트 키오스크\허영수\허영수\obj\Debug\net6.0-windows\kiosk.csproj.GenerateResource.cache
+C:\허영수 개인프로젝트 키오스크\허영수\허영수\obj\Debug\net6.0-windows\kiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\허영수 개인프로젝트 키오스크\허영수\허영수\obj\Debug\net6.0-windows\kiosk.AssemblyInfoInputs.cache
+C:\허영수 개인프로젝트 키오스크\허영수\허영수\obj\Debug\net6.0-windows\kiosk.AssemblyInfo.cs
+C:\허영수 개인프로젝트 키오스크\허영수\허영수\obj\Debug\net6.0-windows\kiosk.csproj.CoreCompileInputs.cache
+C:\허영수 개인프로젝트 키오스크\허영수\허영수\obj\Debug\net6.0-windows\kiosk.dll
+C:\허영수 개인프로젝트 키오스크\허영수\허영수\obj\Debug\net6.0-windows\refint\kiosk.dll
+C:\허영수 개인프로젝트 키오스크\허영수\허영수\obj\Debug\net6.0-windows\kiosk.pdb
+C:\허영수 개인프로젝트 키오스크\허영수\허영수\obj\Debug\net6.0-windows\kiosk.genruntimeconfig.cache
+C:\허영수 개인프로젝트 키오스크\허영수\허영수\obj\Debug\net6.0-windows\ref\kiosk.dll
